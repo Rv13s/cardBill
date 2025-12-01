@@ -1,0 +1,31 @@
+Hi Im [name] i have around 3 years of experiance in software testing domin, which strong expertise in 
+Manual testing, automation testing using selenium and java as well as in Api testing. So in my current
+role, I am responsible for analyzing business requirement, writing and executing test cases, logging 
+defects, developing test scripts for inspring and existing test cases and preparing a test summary
+report. So i have worked on maven testng framework. Its a hybird framework where we follow page object
+model design pattern and we are using jira as our project management tool and for test case prepartion
+we are using testray and we have been following agile model methodology. So we have sprint ceremoines
+like retrospective daily standup sprint planing, sprint release meeting etc. 
+
+
+=======================================================================================================
+
+Hi, I’m [name]. I have around 3 years of experience in the software testing domain, with strong 
+expertise in manual testing, automation testing using Selenium and Java, as well as API testing.
+
+In my current role, I am responsible for analyzing business requirements, writing and executing    
+test cases, logging defects, developing test scripts for new and existing test cases, and preparing 
+test summary reports.
+
+-> On the automation side,
+I have worked on the Maven-TestNG hybrid framework, following the Page Object Model (POM) design 
+pattern. We use Jira as our project management tool, and for test case preparation we use Qmetry. 
+
+-> I also have good exposure to the Agile methodology, and actively
+Our team follows the Agile methodology, participating in sprint ceremonies such as daily stand-ups, 
+sprint planning, sprint reviews, sprint retrospectives, and release meetings.
+
+Throughout my career, I have worked on various projects where I delivered quality results within 
+the project timelines.
+That’s a brief about my background, and I look forward to contributing my skills and experience to 
+add value to this role.
